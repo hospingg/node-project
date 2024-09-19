@@ -1,0 +1,9 @@
+/node_modules/*
+.*
+!.gitignore
+app.js
+/middleware/validation.js
+/model/User.js
+/staticView
+/controllers/User.controller.js
+/validate/sign-up-sheme.js
